@@ -1,3 +1,7 @@
-# Welcome to my blog
+# Welcome to hwmaster2 blog
 
-I'm glad you are here. I plan to talk about ...
+I'am studing GitHub technologies
+
+## Good luck!
+
+
